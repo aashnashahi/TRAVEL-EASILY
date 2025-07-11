@@ -34,9 +34,8 @@ Travel-Easily is a DevOps-integrated travel planner application that simplifies 
 ---
 - Access the application:
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:5000
-- Prometheus: http://localhost:9090
-- Grafana: http://localhost:3001
+- Backend API: http://localhost:3001/api/hello
+
 
 ---
 🤝 Contributors

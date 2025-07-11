@@ -25,3 +25,20 @@ Travel-Easily is a DevOps-integrated travel planner application that simplifies 
 | Deployment         | Render / Heroku / AWS (depending on environment) |
 
 ---
+## 🧪 Testing Strategy
+
+- **Linting:** Pre-commit checks with ESLint (for JS files)
+- **API Testing:** Postman Collection for all major endpoints
+- **Manual QA:** Interface usability, responsiveness, and bug checks
+- **CI Integration:** Tests run automatically during pull requests
+---
+# Access the application:
+# Frontend: http://localhost:3000
+# Backend API: http://localhost:5000
+# Prometheus: http://localhost:9090
+# Grafana: http://localhost:3001
+
+---
+🤝 Contributors
+Aashna Shahi
+Pratiksha Bahuguna

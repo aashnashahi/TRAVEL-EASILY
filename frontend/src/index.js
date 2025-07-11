@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 const App = () => {
-  fetch('/api/hello')
+  fetch(`${process.env.REACT_APP_API_URL}/api/hello`)
     .then(res => res.json())
     .then(data => console.log(data));
 

@@ -11,3 +11,17 @@ Travel-Easily is a DevOps-integrated travel planner application that simplifies 
 - 🔁 **CI/CD Integration** via GitHub Actions
 - ☁️ **Dockerized Microservices**
 - 📡 **API Integration** for weather and location info
+
+## 🛠️ Tech Stack
+
+| Area               | Technologies Used                                |
+|--------------------|--------------------------------------------------|
+| Frontend           | HTML, CSS, JavaScript                            |
+| Backend            | Node.js, Express                                 |
+| Database           | MongoDB                                          |
+| Containerization   | Docker                                           |
+| CI/CD              | GitHub Actions                                   |
+| Monitoring         | Prometheus, Grafana                              |
+| Deployment         | Render / Heroku / AWS (depending on environment) |
+
+---
